@@ -8,7 +8,7 @@ Official hosted bot: [@ReislerKelimeBot](https://t.me/ReislerkelimeBot).
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/ReislerKelimeBot2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybrGhostf/kelimebot)
 
 ### On your machine
 
